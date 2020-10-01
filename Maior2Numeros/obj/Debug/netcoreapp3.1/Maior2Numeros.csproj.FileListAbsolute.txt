@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\bin\Debug\netcoreapp3.1\Maior2Numeros.exe
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\bin\Debug\netcoreapp3.1\Maior2Numeros.deps.json
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\bin\Debug\netcoreapp3.1\Maior2Numeros.runtimeconfig.json
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\bin\Debug\netcoreapp3.1\Maior2Numeros.runtimeconfig.dev.json
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\bin\Debug\netcoreapp3.1\Maior2Numeros.dll
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\bin\Debug\netcoreapp3.1\Maior2Numeros.pdb
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\obj\Debug\netcoreapp3.1\Maior2Numeros.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\obj\Debug\netcoreapp3.1\Maior2Numeros.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\obj\Debug\netcoreapp3.1\Maior2Numeros.AssemblyInfo.cs
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\obj\Debug\netcoreapp3.1\Maior2Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\obj\Debug\netcoreapp3.1\Maior2Numeros.dll
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\obj\Debug\netcoreapp3.1\Maior2Numeros.pdb
+C:\Users\Max\Desktop\Maior2Numeros\Maior2Numeros\obj\Debug\netcoreapp3.1\Maior2Numeros.genruntimeconfig.cache
